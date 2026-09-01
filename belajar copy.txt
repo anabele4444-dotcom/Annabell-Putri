@@ -1,6 +1,0 @@
-Nama: Abel
-NIM: 046
-Prodi: informatika
-Fakultas: FST 
-Umur: 19
-Hobi: MAKAN
