@@ -1,0 +1,7 @@
+touch "nama file".txt untuk membuat file 
+code . untuk membuka vscode
+lalu baru git add .
+git commit -m "comment apapun"
+git push -u origin master
+
+begitu pula jika mua rename file, copy file, delete file
